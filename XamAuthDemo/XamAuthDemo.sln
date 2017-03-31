@@ -1,0 +1,23 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XamAuthDemo", "XamAuthDemo\XamAuthDemo.csproj", "{C31118C0-D495-48E3-BD9C-0D072E56199C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|iPhoneSimulator = Debug|iPhoneSimulator
+		Release|iPhone = Release|iPhone
+		Release|iPhoneSimulator = Release|iPhoneSimulator
+		Debug|iPhone = Debug|iPhone
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C31118C0-D495-48E3-BD9C-0D072E56199C}.Debug|iPhoneSimulator.ActiveCfg = Debug|iPhoneSimulator
+		{C31118C0-D495-48E3-BD9C-0D072E56199C}.Debug|iPhoneSimulator.Build.0 = Debug|iPhoneSimulator
+		{C31118C0-D495-48E3-BD9C-0D072E56199C}.Release|iPhone.ActiveCfg = Release|iPhone
+		{C31118C0-D495-48E3-BD9C-0D072E56199C}.Release|iPhone.Build.0 = Release|iPhone
+		{C31118C0-D495-48E3-BD9C-0D072E56199C}.Release|iPhoneSimulator.ActiveCfg = Release|iPhoneSimulator
+		{C31118C0-D495-48E3-BD9C-0D072E56199C}.Release|iPhoneSimulator.Build.0 = Release|iPhoneSimulator
+		{C31118C0-D495-48E3-BD9C-0D072E56199C}.Debug|iPhone.ActiveCfg = Debug|iPhone
+		{C31118C0-D495-48E3-BD9C-0D072E56199C}.Debug|iPhone.Build.0 = Debug|iPhone
+	EndGlobalSection
+EndGlobal

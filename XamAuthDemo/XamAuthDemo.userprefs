@@ -1,0 +1,15 @@
+﻿<Properties StartupConfiguration="{C31118C0-D495-48E3-BD9C-0D072E56199C}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="XamAuthDemo/ViewController.cs">
+    <Files>
+      <File FileName="XamAuthDemo/AppDelegate.cs" Line="17" Column="4" />
+      <File FileName="XamAuthDemo/ViewController.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhoneSimulator" />
+  <MonoDevelop.Ide.ItemProperties.XamAuthDemo PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.761BC99C-A386-4E53-A507-8990129B7A5B" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
